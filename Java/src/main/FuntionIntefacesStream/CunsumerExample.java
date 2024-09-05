@@ -1,4 +1,4 @@
-package main.IntefacesStream;
+package main.FuntionIntefacesStream;
 
 import java.util.function.Consumer;
 
